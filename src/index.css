@@ -1,1 +1,5 @@
 @import "tailwindcss";
+body {
+  font-family: 'Nunito', sans-serif;
+  background-color: #2a2525;
+}
